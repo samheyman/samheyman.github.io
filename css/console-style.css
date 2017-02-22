@@ -1,0 +1,10 @@
+body {
+	background-color: #000;
+	color: #fff;
+	font-family: courrier, monospace;
+}
+
+.content {
+	width: 750px;
+	margin: 50px auto;
+}

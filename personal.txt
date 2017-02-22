@@ -1,0 +1,5 @@
+<span class="root">/personal_projects</span><span class="input">$ </span><span class="text">ls -ah</span>
+<span class="text"><a class="menu" href="./map_box.html">map_box</a></span>
+
+
+<a href="./index.html">prompt<span class="root">/personal_projects</span><span class="input">$ </span><span class="text">cd ..</span></a>

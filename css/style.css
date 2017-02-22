@@ -1,0 +1,69 @@
+body {
+	font-family: courier, monospace;
+    color: #fff;
+}
+
+.sidebar-nav {
+	margin-top: 50px;
+}
+
+#sidebar-wrapper {
+	background-color: #000;
+}
+
+.sidebar-nav > .sidebar-brand a {
+	color: #fff;
+}
+
+#logo {
+	width: 20%;
+	margin-top:20px;
+	margin-left: 20px;
+	float:left;
+	color: #98AFC7;
+}
+
+h1,h3,h4 {
+	margin-bottom: 30px;
+}
+
+.map-image {
+	width: 100%;
+}
+
+.mapboxgl-popup {
+    max-width: 200px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.mapboxgl-popup-close-button {
+	margin-right: 5px;
+}
+
+#menu {
+        background: #fff;
+        padding: 10px;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .map-overlay-container {
+    position: absolute;
+    width: 25%;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    z-index: 1;
+}
+
+.map-overlay {
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    color: #333;
+    border-radius: 3px;
+    padding: 10px;
+    box-shadow:0 1px 2px rgba(0,0,0,0.20);
+}
+
+.map-overlay h4,
+.map-overlay p {
+    margin-bottom: 10px;

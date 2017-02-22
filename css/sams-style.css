@@ -1,0 +1,72 @@
+#console {
+    font-family: courier, monospace;
+    color: #fff;
+    max-width: 750px;
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+    font-size: 14px;
+}
+
+body {
+    background-color: #000;
+}
+
+.pwd {
+    color: #0f0;
+}
+
+.root {
+    color: #ff0096;
+}
+
+.input {
+    color: #0bc;
+}
+
+a {
+    color: #0bc;
+    text-decoration: none;
+}
+
+a.text {
+    color: #fff;
+}
+
+a.menu {
+    margin-right:20px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#map { 
+    height:500px;
+    width:100%; 
+    margin-bottom:20px;
+}
+
+#return {
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+#return a {
+    color: #fff;
+}
+
+.accessDenied {
+    z-index: 2;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+
+.accessDenied h1 {
+    color: red;
+}
+
+.accessGranted h1 {
+    color: #0f0;
+}

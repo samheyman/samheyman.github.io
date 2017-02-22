@@ -1,0 +1,13 @@
+<span class="input">$</span><span class="text">cat info.txt</span>
+<br/><br/>
+This website is desiged to look like a <a href="http://www.linfo.org/terminal_window.html" target="_blank">terminal window</a>. The idea is based on <a href="https://samphippen.com/" target="_blank">Sam Phippen's</a> work, a fellow Bristol University graduate.
+<br />
+<br />
+Links are all clickable so navigation should be fairly straight forward. I'll be adding key press functionality so try using 'alt', 'caps locks', 'space', etc., to see what happens. 
+<br />
+<br />
+Thanks for visiting!
+<br/>
+<br/>
+prompt<span class="input">$ </span><span class="text">ls -ah</span>
+<span class="text"><a class="menu" href="./skyscanner_work.html">skyscanner_work</a> <a class="menu" href="./personal_projects.html">personal_projects</a> <a class="text menu" href="./index.html">aboutme.txt</a> <a class="text menu" href="./info.html">info.txt</a></span>
