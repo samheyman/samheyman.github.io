@@ -1,7 +1,7 @@
 <span class="input">$ </span><span class="text">cat aboutme.txt</span>
 <br/><br/>
 <p><span class="text">Hi, I'm Sam Heyman.</span></p>
-<p>I'm a software engineer, currently working as a Developer Advocate at <a href="http://amadeus.com" target="_blank">Amadeus</a> in Madrid. Before that I was an Developer Advocate at <a href="http://skyscanner.net" target="_blank">Skyscanner</a>, in Edinburgh.
+<p>I'm a software engineer, currently working as a developer advocate for <a href="http://amadeus.com" target="_blank">Amadeus IT Group</a> in Madrid. Before that I was a sofware engineer and a developer advocate for <a href="http://skyscanner.net" target="_blank">Skyscanner</a>, in Edinburgh.
 <p>I love <a href="./map_box.html">sailing</a>, flying, playing the piano and travelling.</p>
 <p>If you would like to get in touch with me, whether it be for tech support, a business venture, or to just say hi, feel free to send me an email.</p>
 <p>My email address is: <a href="mailto:sam.heyman@gmail.com">sam.heyman@gmail.com</a>. You can also find me on 
