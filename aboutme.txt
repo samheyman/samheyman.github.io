@@ -2,7 +2,7 @@
 <br/><br/>
 <p><span class="text">Hi, I'm Sam Heyman.</span></p>
 <p>I'm currently working as a developer advocate for <a href="http://amadeus.com" target="_blank">Amadeus IT Group</a> in Madrid. Before that I was a sofware engineer and developer advocate for <a href="http://skyscanner.net" target="_blank">Skyscanner</a>, in Edinburgh, 
-and an avionis systems engineer for <a href="https://www.safran-engineering.com/" target="_blank">Safran Engineering</a> and <a href="http://www.airbus.com" target="_blank">Airbus</a> in Toulouse.
+and an avionics systems engineer for <a href="https://www.safran-engineering.com/" target="_blank">Safran Engineering</a> and <a href="http://www.airbus.com" target="_blank">Airbus</a> in Toulouse.
 <p>I love <a href="./map_box.html">sailing</a>, flying, playing the piano and travelling.</p>
 <p>If you would like to get in touch with me, whether it be for tech support, a business venture, or to just say hi, feel free to send me an email.</p>
 <p>My email address is: <a href="mailto:sam.heyman@gmail.com">sam.heyman@gmail.com</a>. You can also find me on 
