@@ -34,6 +34,10 @@ a.text {
     color: #fff;
 }
 
+a.info {
+    color: #aaa;
+}
+
 a.menu {
     margin-right:20px;
 }

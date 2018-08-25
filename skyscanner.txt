@@ -1,5 +1,6 @@
-<span class="root">/skyscanner_work</span><span class="input">$ </span><span class="text">ls -ah</span>
+<span class="root">/work</span><span class="input">$ </span><span class="text">ls -ah</span>
 <span class="text"><a class="menu" href="https://duckduckgo.com/?q=skyscanner+api+cheatsheet&t=h_&ia=cheatsheet" target="_blank">duckduckgo_cheatsheet</a> <a class="menu" href="https://github.com/Skyscanner/zeroclickinfo-goodies" target="_blank">duckduckgo_cheatsheet_git</a> <a class="menu" href="https://beta.duckduckgo.com/?q=skyscanner+flights+to+vietnam&ia=flights" target="_blank">duckduckgo_ia</a> <a class="menu" href="https://github.com/Skyscanner/zeroclickinfo-spice" target="_blank">duckduckgo_ia_git</a> 
+<span class="text"><a class="menu" href="https://travel-apis.herokuapp.com/" target="_blank">travel_apis</a>  
 
 
-<a href="./index.html">prompt<span class="root">/skyscanner_work</span><span class="input">$ </span><span class="text">cd ..</span></a>
+<a href="./index.html">prompt<span class="root">/work</span><span class="input">$ </span><span class="text">cd ..</span></a>

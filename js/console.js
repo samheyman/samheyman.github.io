@@ -100,12 +100,22 @@ var Typer={
 					Typer.index-=Typer.speed;//	remove speed for deleting text
 			}
 			var text=Typer.text.substring(0,Typer.index)// parse the text for stripping html enities
-			var firstLine = '<span class="pwd">sam</span><span class="pwd">@</span><span class="pwd">heyman</span><span class="text">:</span><span class="root">~</span>';
+			var navigation = '<span class="pwd">sam</span><span class="pwd">@</span>' +
+				'<span class="pwd">heyman</span><span class="text">:</span><span class="root">~</span>' +
+				'<span class="input">$ </span><span class="text">ls -ah</span><br>' +
+				'<span class="text">' +
+				'<a class="text menu" href="./index.html">aboutme.txt</a> ' +
+				'<a class="menu" href="./work.html">work</a> ' +
+				'<a class="menu" href="./personal_projects.html">personal_projects</a> ' +
+				'<a class="info menu" href="./info.html">README.md</a></span></p>';
+			var firstLine = '<span class="pwd">sam</span><span class="pwd">@</span>' +
+				'<span class="pwd">heyman</span><span class="text">:</span><span class="root">~</span>';
+			
 			var fileName = '<span class="text">cat information.txt</span>';
 			text = replacePrompt(text);
 			var rtn = new RegExp("\n", "g"); // newline regex
 			text = text.replace(rtn,"<br/>");
-			$("#console").html(firstLine  + text);// replace newline chars with br, tabs with 4 space and blanks with an html blank
+			$("#console").html(navigation + '<br><br>' + firstLine  + text);// replace newline chars with br, tabs with 4 space and blanks with an html blank
 			window.scrollBy(0,50); // scroll to make sure bottom is always visible
 		}
 		if ( key.preventDefault && key.keyCode != 122 ) { // prevent F11(fullscreen) from being blocked
@@ -140,11 +150,11 @@ function replacePrompt(text) {
 	return text.replace("prompt", '<span class="pwd">sam</span><span class="pwd">@</span><span class="pwd">heyman</span><span class="text">:</span><span class="root">~</span>');
 }
 
-var timer = setInterval("t(13);", 30);
+var timer = setInterval("t(13);", 5);
 
 function start(keyCode) {
 	if (keyCode == 13) {
-		var timer = setInterval("t(13);", 30);
+		var timer = setInterval("t(13);", 5);
 	} else {
 		t(keyCode);
 	}
