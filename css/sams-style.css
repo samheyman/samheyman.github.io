@@ -1,6 +1,6 @@
 #console {
     font-family: courier, monospace;
-    color: #fff;
+    color: #ddd;
     max-width: 750px;
     width:100%;
     margin-left: auto;
@@ -31,7 +31,7 @@ a {
 }
 
 a.text {
-    color: #fff;
+    color: #ddd;
 }
 
 a.info {
