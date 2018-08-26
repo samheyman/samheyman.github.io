@@ -1,0 +1,7 @@
+<span class="text">
+<a class="text menu" href="./index.html">aboutme.txt</a>
+<a class="menu" href="./work.html">work</a>
+<a class="menu" href="./personal_projects.html">personal_projects</a>
+<a class="info menu" href="./info.html">README.md</a>
+</span>
+<br><br>

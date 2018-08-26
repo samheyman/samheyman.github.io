@@ -22,16 +22,26 @@
 
 var Typer={	
 	text: null,
-	accessCountimer:null,
-	index:0, // current cursor position
-	speed:2, // speed of the Typer
-	file:"", //file, must be setted
+	accessCountimer: null,
+	index: 0, // current cursor position
+	speed: 8, // speed of the Typer
+	navFile: "navigation.txt",
+	promptFile: "prompt.txt",
+	pageFile: "", //file, must be set
 	accessCount:0, //times alt is pressed for Access Granted
 	deniedCount:0, //times caps is pressed for Access Denied
+
 	init: function(){// inizialize Hacker Typer
 		accessCountimer=setInterval(function(){Typer.updLstChr();},500); // inizialize timer for blinking cursor
-		$.get(Typer.file,function(data){// get the text file
-			Typer.text=data;// save the textfile in Typer.text
+		$.get(Typer.promptFile, function(data){
+			Typer.promptContent = data;
+			Typer.listContent = '<span class="input">$ </span><span class="text">ls -ah</span>';
+		});
+		$.get(Typer.navFile, function(data){
+			Typer.navContent = data;
+		});
+		$.get(Typer.pageFile,function(data){// get the text file
+			Typer.text = data;// save the textfile in Typer.text
 			Typer.text = Typer.text.slice(0, Typer.text.length-1);
 		});
 	},
@@ -100,22 +110,25 @@ var Typer={
 					Typer.index-=Typer.speed;//	remove speed for deleting text
 			}
 			var text=Typer.text.substring(0,Typer.index)// parse the text for stripping html enities
-			var navigation = '<span class="pwd">sam</span><span class="pwd">@</span>' +
-				'<span class="pwd">heyman</span><span class="text">:</span><span class="root">~</span>' +
-				'<span class="input">$ </span><span class="text">ls -ah</span><br>' +
-				'<span class="text">' +
-				'<a class="text menu" href="./index.html">aboutme.txt</a> ' +
-				'<a class="menu" href="./work.html">work</a> ' +
-				'<a class="menu" href="./personal_projects.html">personal_projects</a> ' +
-				'<a class="info menu" href="./info.html">README.md</a></span></p>';
-			var firstLine = '<span class="pwd">sam</span><span class="pwd">@</span>' +
-				'<span class="pwd">heyman</span><span class="text">:</span><span class="root">~</span>';
+			var prompt = Typer.promptContent;
+			var location = Typer.pageFile;
+			var listCommand = Typer.listContent;
+			var navigation = Typer.navContent;
+			text = addFooter(text, location);
+
+			// text = replacePrompt(text);
+			//var rtn = new RegExp("\n", "g"); // newline regex
+			//text = text.replace(rtn, "<br/>");
+
+			$("#console").html(
+				prompt + listCommand + 
+				'<br>' + 
+				navigation + 
+				'<br><br>'  + 
+				prompt + 
+				text
+			);// replace newline chars with br, tabs with 4 space and blanks with an html blank
 			
-			var fileName = '<span class="text">cat information.txt</span>';
-			text = replacePrompt(text);
-			var rtn = new RegExp("\n", "g"); // newline regex
-			text = text.replace(rtn,"<br/>");
-			$("#console").html(navigation + '<br><br>' + firstLine  + text);// replace newline chars with br, tabs with 4 space and blanks with an html blank
 			window.scrollBy(0,50); // scroll to make sure bottom is always visible
 		}
 		if ( key.preventDefault && key.keyCode != 122 ) { // prevent F11(fullscreen) from being blocked
@@ -147,7 +160,20 @@ function replaceUrls(text) {
 }
 
 function replacePrompt(text) {
-	return text.replace("prompt", '<span class="pwd">sam</span><span class="pwd">@</span><span class="pwd">heyman</span><span class="text">:</span><span class="root">~</span>');
+	return text.replace("prompt", prompt);
+}
+
+function addFooter(text, path) {
+	if (path === 'aboutme.txt' || path === 'info.txt') {
+		return text.replace("footer", '<br>' + Typer.promptContent + 
+			'<span class="input">$ </span>');
+	} else if (path=='work.txt') {
+		return text.replace("footer", '<br>' + Typer.promptContent + 
+			'<a href="./index.html"><span class="root">/work</span><span class="input">$ </span></a>');
+	} else {
+		return text.replace("footer", '<br>' + Typer.promptContent + 
+			'<a href="./index.html"><span class="root">/personal_projects</span><span class="input">$ </span></a>');
+	}
 }
 
 var timer = setInterval("t(13);", 5);
@@ -158,7 +184,6 @@ function start(keyCode) {
 	} else {
 		t(keyCode);
 	}
-
 }
 
 function t(keyCode) {

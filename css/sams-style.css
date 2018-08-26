@@ -46,6 +46,10 @@ a:hover {
     text-decoration: none;
 }
 
+p {
+    margin-top: 40px;
+}
+
 #map { 
     height:500px;
     width:100%; 
