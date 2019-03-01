@@ -35,7 +35,7 @@ var Typer={
 		accessCountimer=setInterval(function(){Typer.updLstChr();},500); // inizialize timer for blinking cursor
 		$.get(Typer.promptFile, function(data){
 			Typer.promptContent = data;
-			Typer.listContent = '<span class="input">$ </span><span class="text">ls -ah</span>';
+			Typer.listContent = '<span class="input"> </span><span class="text">ls -ah</span>';
 		});
 		$.get(Typer.navFile, function(data){
 			Typer.navContent = data;
@@ -166,13 +166,13 @@ function replacePrompt(text) {
 function addFooter(text, path) {
 	if (path === 'aboutme.txt' || path === 'info.txt') {
 		return text.replace("footer", '<br>' + Typer.promptContent + 
-			'<span class="input">$ </span>');
+			'<span class="input"> </span>');
 	} else if (path=='work.txt') {
 		return text.replace("footer", '<br>' + Typer.promptContent + 
-			'<a href="./index.html"><span class="root">/work</span><span class="input">$ </span></a>');
+			'<a href="./index.html"><span class="root">/work</span><span class="input"> </span></a>');
 	} else {
 		return text.replace("footer", '<br>' + Typer.promptContent + 
-			'<a href="./index.html"><span class="root">/personal_projects</span><span class="input">$ </span></a>');
+			'<a href="./index.html"><span class="root">/personal_projects</span><span class="input"> </span></a>');
 	}
 }
 

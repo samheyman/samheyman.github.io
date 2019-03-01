@@ -1,1 +1,1 @@
-<span class="pwd">#</span><span class="pwd">sam</span><span class="pwd">heyman</span> <span class="text">~/</span>
+<span class="text">#</span><span class="pwd">sam</span><span class="pwd">heyman</span> <span class="text">~/</span>
