@@ -28,7 +28,7 @@ var locations = [
                     "icon": "harbor",
                     "description": "Hamburgsund",
                     "coordinates": "58°55′6654″N, 11°26′4377″E",
-                    "imageSource": "img/hamburgsund.jpg"
+                    "imageSource": "https://c1.staticflickr.com/9/8014/28359740335_d84c183527_b.jpg"
                 },
                 "camera": {
                     center: [11.264377,58.556654],
@@ -49,7 +49,7 @@ var locations = [
                     "icon": "harbor",
                     "description": "Smögen",
                     "coordinates": "58°36′6695″N, 11°23′8136″E",
-                    "imageSource": "img/smogen.jpg"
+                    "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hassel%C3%B6sund_from_sm%C3%B6gen_bridge.JPG/1600px-Hassel%C3%B6sund_from_sm%C3%B6gen_bridge.JPG"
                 },
                 "camera": {
                     center: [11.238136,58.366695],
@@ -69,7 +69,7 @@ var locations = [
                     "icon": "harbor",
                     "description": "Hållö",
                     "coordinates": "58°33′3168″N, 11°21′83″E",
-                    "imageSource": "img/hallo.jpg"
+                    "imageSource": "https://upload.wikimedia.org/wikipedia/commons/3/3c/H%C3%A5ll%C3%B6_1.jpg"
                 },
                 "camera": {
                     center: [11.2183,58.333168],
@@ -89,7 +89,7 @@ var locations = [
                     "icon": "harbor",
                     "description": "Keö",
                     "coordinates": "58°21'54.1″N, 11°19'07.2″E",
-                    "imageSource": "img/keo.jpg"
+                    "imageSource": "https://farm8.static.flickr.com/7346/16231534129_bdbf34f45e_b.jpg"
                 },
                 "camera": {
                     center: [11.318656,58.365024],
@@ -109,7 +109,7 @@ var locations = [
                     "icon": "harbor",
                     "description": "Lilla Kornö",
                     "coordinates": "58°30′8211″N, 11°36′6887″E",
-                    "imageSource": "img/lilla_korno.jpg"
+                    "imageSource": "https://img.marinas.com/v2/06a12155beb22165f015eeda2c6c4826e9767118308bd5e3833b0fc593113040.jpg"
                 },
                 "camera": {
                     center: [11.366887,58.308211],
@@ -129,7 +129,7 @@ var locations = [
                     "icon": "harbor",
                     "description": "Käringön, Restaurant: <a href=\"http://www.petersonskrog.se\" target=\"_blank\">Peterson's Krog</a>",
                     "coordinates": "58°11′2955″N, 11°36′5285″E",
-                    "imageSource": "img/karingon.jpg"
+                    "imageSource": "http://www.xn--kringn-bua2m.nu/wp-content/uploads/2018/01/IMG_0088.jpg"
                 },
                 "camera": {
                     center: [11.365285,58.112955],
@@ -149,7 +149,7 @@ var locations = [
                     "icon": "harbor",
                     "description": "Källviken",
                     "coordinates": "58°15'15.7″N, 11°30'09.4″E",
-                    "imageSource": "img/kallviken.jpg"
+                    "imageSource": "https://img.marinas.com/v2/70037dfed6b113bdff042fd4c6dab4eafd6c68f3e10ec697fc43a99f34287693.jpg"
                 },
                 "camera": {
                     center: [11.502611,58.254361],
@@ -169,7 +169,7 @@ var locations = [
                     "icon": "harbor",
                     "description": "Skärhamn",
                     "coordinates": "57°98′8553″N, 11°54′6988″E",
-                    "imageSource": "img/skarhamn.jpg"
+                    "imageSource": "https://media-cdn.tripadvisor.com/media/photo-s/0c/17/c1/0c/la-magnifique-capitale.jpg"
                 },
                 "camera": {
                     center: [11.546988,57.988553],
@@ -189,7 +189,7 @@ var locations = [
                     "icon": "harbor",
                     "description": "Natur Hamn",
                     "coordinates": "57°97′4313″N, 11°52′7045″E",
-                    "imageSource": "img/natur_hamn.jpg"
+                    "imageSource": "https://lugnseglats2009.files.wordpress.com/2009/07/naturhamn.jpg?w=300&h=225"
                 },
                 "camera": {
                     center: [11.527045,57.974313],
@@ -210,7 +210,7 @@ var locations = [
                     "icon": "harbor",
                     "description": "Marstrand",
                     "coordinates": "57°88′4297″N, 11°58′6856″E",
-                    "imageSource": "img/marstrand.jpg"
+                    "imageSource": "https://images.vastsverige.com/publishedmedia/50zk4638oow4tdpm84ra/Marstrand_130618-1934_Photo_Cred_Per_Pixel.jpg"
                 },
                 "camera": {
                     center: [11.586856,57.884297],
