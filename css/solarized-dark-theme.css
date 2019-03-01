@@ -11,10 +11,12 @@
 
 body {
     background-color: #001e27;
+    font-size: 14px;
 }
 
 .pwd {
     color: #d11c24;
+    font-size: 14px;
 }
 
 .root {
@@ -23,23 +25,28 @@ body {
 
 .input {
     color: #0bc;
+    font-size: 14px;
 }
 
 .command {
     color: #7b969f;
+    font-size: 14px;
 }
 
 a {
     color: #0bc;
     text-decoration: none;
+    font-size: 14px;
 }
 
 a.text, .text {
     color: #ddd;
+    font-size: 14px;
 }
 
 a.info {
     color: #aaa;
+    font-size: 14px;
 }
 
 a.menu {
