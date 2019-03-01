@@ -25,6 +25,10 @@ body {
     color: #0bc;
 }
 
+.command {
+    color: #7b969f;
+}
+
 a {
     color: #0bc;
     text-decoration: none;

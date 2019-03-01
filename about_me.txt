@@ -1,4 +1,4 @@
-<span class="input"> </span><span class="text">cat about_me.txt</span>
+<span class="input"> </span><span class="command">cat about_me.txt</span>
 <p class="pageContent"><span class="text">Hi, I'm Sam Heyman.</span></p>
 <p>I'm a software engineer currently based in Madrid, Spain. Previously I have worked as a developer advocate for <a href="http://amadeus.com" target="_blank">Amadeus IT Group</a> in Madrid and as a sofware engineer and developer advocate for <a href="http://skyscanner.net" target="_blank">Skyscanner</a>, in Edinburgh. I was also an avionics systems engineer for <a href="https://www.safran-engineering.com/" target="_blank">Safran Engineering</a> and <a href="http://www.airbus.com" target="_blank">Airbus</a> in Toulouse.</p>
 <p>I love <a href="./map_box.html">sailing</a>, flying, playing the piano and travelling.</p>

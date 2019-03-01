@@ -1,4 +1,4 @@
-<span class="text">my_work</span><span class="input"> </span><span class="text">ls -ah</span>
+<span class="text">my_work</span><span class="input"> </span><span class="command">ls -ah</span>
 <br/>
 <span class="text"><a class="menu" href="https://duckduckgo.com/?q=skyscanner+api+cheatsheet&t=h_&ia=cheatsheet" target="_blank">duckduckgo_cheatsheet</a> <a class="menu info" href="https://github.com/Skyscanner/zeroclickinfo-goodies" target="_blank">duckduckgo_cheatsheet_git</a> 
 <br/><a class="menu" href="https://beta.duckduckgo.com/?q=skyscanner+flights+to+vietnam&ia=flights" target="_blank">duckduckgo_ia</a> 
