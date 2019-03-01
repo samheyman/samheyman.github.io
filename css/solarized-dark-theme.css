@@ -10,11 +10,11 @@
 }
 
 body {
-    background-color: #001e27;
+    background-color: #000;
 }
 
 .pwd {
-    color: #0f0;
+    color: #d11c24;
 }
 
 .root {
@@ -31,7 +31,7 @@ a {
 }
 
 a.text {
-    color: #d11c24;
+    color: #ddd;
 }
 
 a.info {
