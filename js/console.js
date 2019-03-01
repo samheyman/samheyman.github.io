@@ -164,7 +164,7 @@ function replacePrompt(text) {
 }
 
 function addFooter(text, path) {
-	if (path === 'about_me.txt' || path === 'info.txt') {
+	if (path === 'about_me.txt' || path === 'read_me.txt') {
 		return text.replace("footer", '<br>' + Typer.promptContent + 
 			'<span class="input"> </span>');
 	} else if (path=='work.txt') {
