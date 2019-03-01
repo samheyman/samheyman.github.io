@@ -35,7 +35,7 @@ var Typer={
 		accessCountimer=setInterval(function(){Typer.updLstChr();},500); // inizialize timer for blinking cursor
 		$.get(Typer.promptFile, function(data){
 			Typer.promptContent = data;
-			Typer.listContent = '<span class="input"> </span><span class="text">ls -ah</span>';
+			Typer.listContent = '<span class="input"> </span><span class="command">ls -ah</span>';
 		});
 		$.get(Typer.navFile, function(data){
 			Typer.navContent = data;
