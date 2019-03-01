@@ -169,10 +169,10 @@ function addFooter(text, path) {
 			'<span class="input"> </span>');
 	} else if (path=='work.txt') {
 		return text.replace("footer", '<br>' + Typer.promptContent + 
-			'<a href="./index.html"><span class="root">/work</span><span class="input"> </span></a>');
+			'<a href="./index.html"><span class="text">work</span><span class="input"> </span></a>');
 	} else {
 		return text.replace("footer", '<br>' + Typer.promptContent + 
-			'<a href="./index.html"><span class="root">/personal_projects</span><span class="input"> </span></a>');
+			'<a href="./index.html"><span class="texxt">personal_projects</span><span class="input"> </span></a>');
 	}
 }
 
