@@ -1,4 +1,4 @@
-<span class="input"> </span><span class="text">cat README.md</span>
+<span class="input"> </span><span class="command">cat README.md</span>
 <p class="pageContent">This website is desiged to look like a <a href="http://www.linfo.org/terminal_window.html" target="_blank">terminal window</a>. The idea is based on <a href="https://samphippen.com/" target="_blank">Sam Phippen's</a> work, a fellow Bristol University graduate.</p>
 <p>Links are all clickable so navigation should be fairly straight forward. I'll be adding key press functionality so try using 'alt', 'caps locks', 'space', etc., to see what happens.</p>
 

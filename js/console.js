@@ -167,7 +167,7 @@ function addFooter(text, path) {
 	if (path === 'about_me.txt' || path === 'read_me.txt') {
 		return text.replace("footer", '<br>' + Typer.promptContent + 
 			'<span class="input"> </span>');
-	} else if (path=='work.txt') {
+	} else if (path=='my_work.txt') {
 		return text.replace("footer", '<br>' + Typer.promptContent + 
 			'<a href="./index.html"><span class="text">my_work</span><span class="input"> </span></a>');
 	} else {

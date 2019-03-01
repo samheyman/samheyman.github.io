@@ -1,7 +1,7 @@
-<span class="text">personal_projects</span><span class="input"> </span><span class="text">ls -ah</span>
+<span class="text">personal_projects</span><span class="input"> </span><span class="command">ls -ah</span>
 <br>
-<span class="text"><a class="menu" href="./map_box.html">map_box</a></span> <a class="menu text" href="https://github.com/samheyman/legalesign-python-sdk" target="_blank">legalesign_python_sdk</a>
+<span class="text"><a class="menu" href="./map_box.html">map_box</a></span> <a class="menu info" href="https://github.com/samheyman/legalesign-python-sdk" target="_blank">legalesign_python_sdk</a>
 <br>
-<a class="menu text" href="https://www.youtube.com/watch?v=rjDAxyQ_5xs" target="_blank">alexa_typeform_skill</a>
+<a class="menu info" href="https://www.youtube.com/watch?v=rjDAxyQ_5xs" target="_blank">alexa_typeform_skill</a>
 <br><br>
 footer 
