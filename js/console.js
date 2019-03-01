@@ -172,7 +172,7 @@ function addFooter(text, path) {
 			'<a href="./index.html"><span class="text">work</span><span class="input"> </span></a>');
 	} else {
 		return text.replace("footer", '<br>' + Typer.promptContent + 
-			'<a href="./index.html"><span class="texxt">personal_projects</span><span class="input"> </span></a>');
+			'<a href="./index.html"><span class="text">personal_projects</span><span class="input"> </span></a>');
 	}
 }
 
