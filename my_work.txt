@@ -1,9 +1,10 @@
-<span class="text">work</span><span class="input"> </span><span class="text">ls -ah</span>
+<span class="text">my_work</span><span class="input"> </span><span class="text">ls -ah</span>
 <br/>
 <span class="text"><a class="menu" href="https://duckduckgo.com/?q=skyscanner+api+cheatsheet&t=h_&ia=cheatsheet" target="_blank">duckduckgo_cheatsheet</a> <a class="menu info" href="https://github.com/Skyscanner/zeroclickinfo-goodies" target="_blank">duckduckgo_cheatsheet_git</a> 
 <br/><a class="menu" href="https://beta.duckduckgo.com/?q=skyscanner+flights+to+vietnam&ia=flights" target="_blank">duckduckgo_ia</a> 
 <a class="menu info" href="https://github.com/Skyscanner/zeroclickinfo-spice" target="_blank">duckduckgo_ia_git</a> 
 <span class="text">
-<br/><a class="menu text" href="https://travel-apis.herokuapp.com/" target="_blank">travel_apis</a> 
+<br/><a class="menu text" href="https://travel-apis.herokuapp.com/" target="_blank">travel_apis</a> <a class="menu text" href="http://travel-apis.herokuapp.com/flights/routes" target="_blank">d3js_travel_intelligence</a>
+
 <br><br>
 footer 
