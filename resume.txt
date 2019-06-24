@@ -68,7 +68,23 @@ experience
 <br>• Creating test frameworks and tooling to support product development in a continuous
 deployment environment
 <br>• Writing user stories and acceptance criteria for use as automated acceptance tests
-<br>• Implementing automated tests to run during the deployment cycle
+<br>• Implementing automated tests to run during the deployment cycle<br><br>
+
+<br>Software Engineer 
+<br>HEYMAN ENGINEERING (SELF-EMPLOYED), Edinburgh, UK
+<br><i>2010-2013</i>
+<br>• Developing full-stack applications including a hotel membership service (B+B) and a medical
+survey app (cMedicas)
+<br>• Writing HTML email campaigns, with the largest reaching 50,000 people (Roomwise)
+<br>• Providing technical support for websites, databases and apps<br><br>
+
+<br>System design engineer, A380 Network and Server System (NSS)
+<br>Systems integration engineer, Electronic Instrument and Flight Warning Systems (EIS and FWS)
+<br>SAFRAN ENGINEERING SERVICES (FOR AIRBUS-FRANCE), Toulouse, France
+<br><i>2006-2010</i>
+<br>• Writing requirements specifications and technical notes for the different components
+<br>• Preparing the documentation for certification dossiers
+<br>• Performing system integration tests on test benches and full-cockpit simulators
 
 
 <p class="">Education</p>
