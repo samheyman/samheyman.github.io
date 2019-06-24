@@ -1,10 +1,22 @@
-<span class="text">my_work</span><span class="input"> </span><span class="command">ls -ah</span>
+<span class="text">portfolio</span><span class="input"> </span><span class="command">ls -ah</span>
 <br/>
-<span class="text"><a class="menu" href="https://duckduckgo.com/?q=skyscanner+api+cheatsheet&t=h_&ia=cheatsheet" target="_blank">duckduckgo_cheatsheet</a> <a class="menu info" href="https://github.com/Skyscanner/zeroclickinfo-goodies" target="_blank">duckduckgo_cheatsheet_git</a> 
-<br/><a class="menu" href="https://beta.duckduckgo.com/?q=skyscanner+flights+to+vietnam&ia=flights" target="_blank">duckduckgo_ia</a> 
-<a class="menu info" href="https://github.com/Skyscanner/zeroclickinfo-spice" target="_blank">duckduckgo_ia_git</a> 
-<span class="text">
-<br/><a class="menu info" href="https://travel-apis.herokuapp.com/" target="_blank">travel_apis</a> <a class="menu info" href="http://travel-apis.herokuapp.com/flights/routes" target="_blank">D3js_travel_intelligence</a> <a class="menu info" href="https://travel-apis.herokuapp.com/flights/airports" target="_blank">mapbox_airports</a>
+<br/><a class="menu info" href="hhttps://travel-apis.herokuapp.com/flights" target="_blank">amadeus_flight_search</a> 
+<br><a class="menu info" href="https://travel-apis.herokuapp.com/flights/airports" target="_blank">amadeus_nearby_airports</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><a class="menu info" href="http://travel-apis.herokuapp.com/flights/routes" target="_blank">amadeus_TI_data_d3js</a> 
+<br><a class="menu info" href="https://travel-apis.herokuapp.com/destinations/" target="_blank">avuxi_foursquare_points_interest</a> 
+<br><span class="text"><a class="menu" href="https://github.com/samheyman/flutter-app/blob/master/README.md">mamma_fit_club_flutter_ios_app (github)</a></span> 
+<br><span class="text"><a class="menu" href="https://mama-fit-club.firebaseapp.com/">mamma_fit_club_website</a></span> 
+<br><span class="text"><a class="menu" href="./map_box.html">mapbox_sailing_trip_animation</a></span> 
+<br><a href="https://travel-apis.herokuapp.com/mock_apis/">mock_taxi_api</a>
+<br><span class="text"><a class="menu" href="https://skyscanner.github.io/slate/" target="_blank">skyscanner_api_reference</a>   
+<br><a class="menu" href="https://beta.duckduckgo.com/?q=skyscanner+flights+to+vietnam&ia=flights" target="_blank">skyscanner_duckduckgo_ia (github)</a>
+<br><span class="text"><a class="menu" href="https://github.com/samheyman/duckduckgo-skyscanner-apis-cheatsheet/blob/master/README.md" target="_blank">skyscanner_duckduckgo_cheatsheet (github)</a>   
+<br><span class="text"><a class="menu" href="https://www.youtube.com/watch?v=A4iUYFsSckU" target="_blank">skyscanner_white_label_tutorial (youtube)</a>   
+<br><a class="menu info" href="https://www.youtube.com/watch?v=rjDAxyQ_5xs" target="_blank">typeform_alexa_skill (youtube)</a>
+<br><a class="menu info" href="https://github.com/samheyman/typeform_python_sdk/blob/master/README.rst" target="_blank">typeform_python_sdk (github)</a>
 
+<br>
+<br><br>
 <br><br>
 footer 

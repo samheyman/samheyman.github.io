@@ -164,12 +164,12 @@ function replacePrompt(text) {
 }
 
 function addFooter(text, path) {
-	if (path === 'about_me.txt' || path === 'read_me.txt') {
+	if (path === 'about_me.txt' || path === 'read_me.txt'|| path === 'resume.txt') {
 		return text.replace("footer", '<br>' + Typer.promptContent + 
 			'<span class="input"> </span>');
 	} else if (path=='my_work.txt') {
 		return text.replace("footer", '<br>' + Typer.promptContent + 
-			'<a href="./index.html"><span class="text">my_work</span><span class="input"> </span></a>');
+			'<a href="./index.html"><span class="text">portfolio</span><span class="input"> </span></a>');
 	} else {
 		return text.replace("footer", '<br>' + Typer.promptContent + 
 			'<a href="./index.html"><span class="text">personal_projects</span><span class="input"> </span></a>');
@@ -193,3 +193,8 @@ function t(keyCode) {
 	}
 }
  
+function toggleTheme() {
+	var a = document.getElementById("style1");
+	a.x = 'resumecssinvert' == a.x ? 'resumecss' : 'resumecssinvert'; // short if
+	a.href = a.x + '.css';
+}

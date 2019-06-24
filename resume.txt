@@ -1,0 +1,100 @@
+<span class="input"> </span><span class="command">cat resume.txt</span>
+
+<p class="pageContent">
+<hr class="top" style="">
+<br><span class="text" style="text-transform:uppercase">Sam Heyman</span>
+<br><i>Software engineer &amp; developer advocate</i>
+</p>
+
+<p class="">Skills</p>
+<hr class="separator">
+<br><u>Developer relations</u>
+<br>Developer experience: documentation, guides, sample code, SDKs & blogs
+<br>Working with developers and key partners to help them build great products with APIs
+
+<br><br>
+<u>Communication</u>
+<br>Have had the opportunity to speak at a number of conferences: AWS Summit, Nordic APIs, Intelligent Assistants, REST Fest & Mind the Product
+<br><br>
+<u>Computing</u>
+<br>Programming languages: Python, Javascript, C#, Ruby, PHP, ML
+<br>Frameworks: Django, Node.js, JQuery, React, MongoDB, SQL, REST APIs, Open API (Swagger), Git
+<br><br>
+<u>Languages</u>
+<br>English and French: native 
+<br>German and Swedish: advanced 
+<br>Spanish: basic
+
+<p class="">Experience</p>
+<hr class="separator">
+<br>Developer &amp; co-founder
+<br>MAMMA FIT CLUB
+<br><i>2019-now</i>
+<br>Co-founding a startup aimed at helping pregnant women exercise throughout their pregnancy. 
+<br>• Creating the app wireframe (used for pitching the idea)
+<br>• Building the app MVP
+<br>• Setting-up the the database and backend infrastructure
+<br>• Implementing the continuous delivery pipeline with a suite of automated tests
+<br>• UX and graphic design (logo, visual identity)
+<br><br>
+
+<br>Developer Advocate 
+<br>AMADEUS IT GROUP, Madrid, Spain
+<br><i>2017-2018</i>
+<br>• Working with product managers to build and continuously improve APIs based on feedback
+from developers and partners such as Troop Travel
+<br>• Writing documentation, guides, sample code and SDKs to help make for a great developer
+experience
+<br>• Participating in hackathons and conferences to meet developers and collect feedback
+through face-to-face discussion and solving travel-related problems
+<br>• Represented Amadeus at a hackathon during the Tecknofest air show inaugurating the new
+Istanbul airport, alongside other sponsors such as Turkish Airlines, Sabre and Here Maps<br><br>
+
+<br>Developer Advocate 
+<br>SKYSCANNER, Edinburgh, UK
+<br><i>2016-2017</i>
+<br>• Working closely with sales and engineering teams to continuously improve products based on
+feedback from developers
+<br>• Working closely with Business Development to provide 1-to-1 support to key partners such as
+Fare Compare, Visit Dubai and Vente Prive.
+<br>• Writing documentation, getting started guides and sample code to maximise developer
+experience
+<br>• Presented Skyscanner APIs and Alexa Skill at AWS Summit (London), Intelligent Assistants
+(London), Nordic APIs (Stockholm) and REST Fest (Edinburgh)<br><br>
+
+<br>Senior Software Test Engineer 
+<br>SKYSCANNER, Edinburgh, UK
+<br><i>2013-2016</i>
+<br>• Creating test frameworks and tooling to support product development in a continuous
+deployment environment
+<br>• Writing user stories and acceptance criteria for use as automated acceptance tests
+<br>• Implementing automated tests to run during the deployment cycle
+
+
+<p class="">Education</p>
+<hr class="separator">
+<br>MEng Avionics Systems (2:1) 
+<br>UNIVERSITY of BRISTOL, UK
+<br><i>2001-2006</i>
+<br>Final year option: ‘Innovation and Entrepreneurship’. Chair Person of a group of 5 people. Developed a business plan and presented it to potential investors.
+<br><br>
+Erasmus year
+<br>LINKÖPINGS UNIVERSITET, Sweden 
+<br><i>2004-2005</i>
+<br>Worked in a team of 12 people from many different nationalities for the third-year group design project, developing, building and test flying an unmanned search and reconnaissance aircraft.
+
+<p class="">Interests</p>
+<hr class="separator">
+<br><u>Piano</u>
+<br>Have been playing the piano since a young age and continue to have weekly lessons, mostly classical music but would like to learn more Jazz.
+<br><br><u>Lindy Hop</u>
+<br>I love swing dancing and swing music. I am a keen Lindy Hop dancer and have attended workshops around the word.
+<br><br><u>Sailing</u>
+<br>Recently obtained the International Certificate of Competence (ICC) in Mallorca which allows me to skipper yachts in many countries. I have sailed in many places around Europe, with a preference for Sweden.
+<br><br><u>Travelling</u>
+<br>Love to attend software conferences, meetups, hackathons and, in the past two years, have had the chance to attend events around the world including Sweden, Spain, UK, US, Germany and Turkey.
+<br><br><u>Finance</u>
+<br>I love to keep learning new skills and finance is a fascinating topic. I have completed courses online in Finance, Computational Finance and Financial Markets with the University of Michigan and Yale University.
+
+<p></p>
+footer
