@@ -1,4 +1,4 @@
-<span class="input"> </span><span class="command">cat resume.txt</span>
+<span class="input"> </span><span class="command">cat resume.txt <a href="">(download pdf)</a></span>
 
 <p class="pageContent">
 <hr class="top" style="">
@@ -33,7 +33,7 @@
 <br>Co-founding a startup aimed at helping pregnant women exercise throughout their pregnancy. 
 <br>• Creating the app wireframe (used for pitching the idea)
 <br>• Building the app MVP
-<br>• Setting-up the the database and backend infrastructure
+<br>• Setting-up the database and backend infrastructure
 <br>• Implementing the continuous delivery pipeline with a suite of automated tests
 <br>• UX and graphic design (logo, visual identity)
 <br><br>
