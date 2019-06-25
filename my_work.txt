@@ -4,7 +4,7 @@
 <br><a class="menu info" href="https://travel-apis.herokuapp.com/flights/airports" target="_blank">amadeus_nearby_airports</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br><a class="menu info" href="http://travel-apis.herokuapp.com/flights/routes" target="_blank">amadeus_TI_data_d3js</a> 
-<br><a class="menu info" href="https://travel-apis.herokuapp.com/destinations/" target="_blank">avuxi_foursquare_points_interest</a> 
+<br><a class="menu info" href="https://travel-apis.herokuapp.com/destinations/points-of-interest" target="_blank">avuxi_foursquare_points_interest</a> 
 <br><span class="text"><a class="menu" href="https://github.com/samheyman/flutter-app/blob/master/README.md">mamma_fit_club_flutter_ios_app (github)</a></span> 
 <br><span class="text"><a class="menu" href="https://mama-fit-club.firebaseapp.com/">mamma_fit_club_website</a></span> 
 <br><span class="text"><a class="menu" href="./map_box.html">mapbox_sailing_trip_animation</a></span> 
