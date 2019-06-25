@@ -1,6 +1,6 @@
 <span class="text">portfolio</span><span class="input"> </span><span class="command">ls -ah</span>
 <br/>
-<br/><a class="menu info" href="hhttps://travel-apis.herokuapp.com/flights" target="_blank">amadeus_flight_search</a> 
+<br/><a class="menu info" href="https://travel-apis.herokuapp.com/flights/flight_low_fare_search" target="_blank">amadeus_flight_search</a> 
 <br><a class="menu info" href="https://travel-apis.herokuapp.com/flights/airports" target="_blank">amadeus_nearby_airports</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br><a class="menu info" href="http://travel-apis.herokuapp.com/flights/routes" target="_blank">amadeus_TI_data_d3js</a> 
