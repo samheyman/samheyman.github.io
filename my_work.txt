@@ -1,20 +1,20 @@
 <span class="text">portfolio</span><span class="input"> </span><span class="command">ls -ah</span>
-<br/>
-<br/><a class="menu info" href="https://travel-apis.herokuapp.com/flights/flight_low_fare_search" target="_blank">amadeus_flight_search</a> 
-<br><a class="menu info" href="https://travel-apis.herokuapp.com/flights/airports" target="_blank">amadeus_nearby_airports</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br><a class="menu info" href="http://travel-apis.herokuapp.com/flights/routes" target="_blank">amadeus_TI_data_d3js</a> 
-<br><a class="menu info" href="https://travel-apis.herokuapp.com/destinations/points-of-interest" target="_blank">avuxi_foursquare_points_interest</a> 
-<br><span class="text"><a class="menu" href="https://github.com/samheyman/flutter-app/blob/master/README.md">mamma_fit_club_flutter_ios_app (github)</a></span> 
-<br><span class="text"><a class="menu" href="https://mama-fit-club.firebaseapp.com/">mamma_fit_club_website</a></span> 
-<br><span class="text"><a class="menu" href="./map_box.html">mapbox_sailing_trip_animation</a></span> 
-<br><a href="https://travel-apis.herokuapp.com/mock_apis/">mock_taxi_api</a>
-<br><span class="text"><a class="menu" href="https://skyscanner.github.io/slate/" target="_blank">skyscanner_api_reference</a>   
-<br><a class="menu" href="https://beta.duckduckgo.com/?q=skyscanner+flights+to+vietnam&ia=flights" target="_blank">skyscanner_duckduckgo_ia (github)</a>
-<br><span class="text"><a class="menu" href="https://github.com/samheyman/duckduckgo-skyscanner-apis-cheatsheet/blob/master/README.md" target="_blank">skyscanner_duckduckgo_cheatsheet (github)</a>   
-<br><span class="text"><a class="menu" href="https://www.youtube.com/watch?v=A4iUYFsSckU" target="_blank">skyscanner_white_label_tutorial (youtube)</a>   
-<br><a class="menu info" href="https://www.youtube.com/watch?v=rjDAxyQ_5xs" target="_blank">typeform_alexa_skill (youtube)</a>
-<br><a class="menu info" href="https://github.com/samheyman/typeform_python_sdk/blob/master/README.rst" target="_blank">typeform_python_sdk (github)</a>
+<br>
+<br><span class="text"><a class="menu" href="https://github.com/samheyman/flutter-app/blob/master/README.md" target="_blank">mamma fit club flutter iOS app</a></span> 
+<br><span class="text"><a class="menu" href="https://mama-fit-club.firebaseapp.com/" target="_blank">mamma fit club website</a></span> 
+<br><a class="menu info" href="https://github.com/samheyman/slack-bot/blob/master/README.md" target="_blank">taxi ordering slack bot</a> 
+<br><a class="menu info" href="https://github.com/samheyman/mock-travel-apis/blob/master/README.md" target="_blank">mock taxi API</a>
+<br><a class="menu info" href="https://www.youtube.com/watch?v=rjDAxyQ_5xs" target="_blank">typeform alexa skill</a>
+<br><a class="menu info" href="https://github.com/samheyman/typeform_python_sdk/blob/master/README.rst" target="_blank">typeform python SDK</a>
+<br><a class="menu " href="https://travel-apis.herokuapp.com/flights/flight_low_fare_search" target="_blank">amadeus flight search</a> 
+<br><a class="menu " href="https://travel-apis.herokuapp.com/flights/airports" target="_blank">amadeus nearby airports</a>
+<br><a class="menu" href="http://travel-apis.herokuapp.com/flights/routes" target="_blank">amadeus TI data (d3js)</a> 
+<br><a class="menu" href="https://travel-apis.herokuapp.com/destinations/points-of-interest" target="_blank">amadeus points of interest (Avuxi and Foursquare APIs)</a> 
+<br><span><a class="menu info" href="./map_box.html">sailing trip animation (mapbox)</a></span> 
+<br><span class="text"><a class="menu" href="https://skyscanner.github.io/slate/" target="_blank">skyscanner API reference</a>   
+<br><a class="menu" href="https://beta.duckduckgo.com/?q=skyscanner+flights+to+vietnam&ia=flights" target="_blank">skyscanner duckduckgo instant answer</a>
+<br><span class="text"><a class="menu" href="https://github.com/samheyman/duckduckgo-skyscanner-apis-cheatsheet/blob/master/README.md" target="_blank">skyscanner duckduckgo API cheatsheet</a>   
+<br><span class="text"><a class="menu" href="https://www.youtube.com/watch?v=A4iUYFsSckU" target="_blank">skyscanner white label tutorial</a>   
 
 <br>
 <br><br>
