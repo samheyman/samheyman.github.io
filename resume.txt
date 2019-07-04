@@ -4,114 +4,122 @@
 <p class="pageContent">
 <hr class="top" style="">
 <br><span class="text" style="text-transform:uppercase">Sam Heyman</span>
-<br><i>Software engineer &amp; developer advocate</i>
+<br><span class="highlight">Software engineer &amp; developer advocate</span>
 </p>
 
 <p class="">Skills</p>
 <hr class="separator">
-<br><u>Developer relations</u>
-<br>Developer experience: documentation, guides, sample code, SDKs & blogs
-<br>Working with developers and key partners to help them build great products with APIs
+<br>Developer relations
+<br><span class="command">Developer experience: documentation, guides, sample code, SDKs & blogs</span>
+<br><span class="command">Working with developers and key partners to help them build great products with APIs</span>
+<br><br>
 
+Communication
+<br><span class="command">Have had the opportunity to speak at a number of conferences: AWS Summit, Nordic APIs, Intelligent Assistants, REST Fest & Mind the Product</span>
 <br><br>
-<u>Communication</u>
-<br>Have had the opportunity to speak at a number of conferences: AWS Summit, Nordic APIs, Intelligent Assistants, REST Fest & Mind the Product
+Computing
+<br><span class="command">Programming languages: Python, Javascript, C#, PHP, ML</span>
+<br><span class="command">Frameworks: Django, Node.js, JQuery, React, MongoDB, SQL, REST APIs, Open API (Swagger), Git</span>
 <br><br>
-<u>Computing</u>
-<br>Programming languages: Python, Javascript, C#, Ruby, PHP, ML
-<br>Frameworks: Django, Node.js, JQuery, React, MongoDB, SQL, REST APIs, Open API (Swagger), Git
-<br><br>
-<u>Languages</u>
-<br>English and French: native 
-<br>German and Swedish: advanced 
-<br>Spanish: basic
+Languages
+<br><span class="command">English and French: native</span>
+<br><span class="command">German and Swedish: advanced</span>
+<br><span class="command">Spanish: basic</span>
 
 <p class="">Experience</p>
 <hr class="separator">
 <br>Developer &amp; co-founder
-<br>MAMMA FIT CLUB
-<br><i>2019-now</i>
-<br>Co-founding a startup aimed at helping pregnant women exercise throughout their pregnancy. 
-<br>• Creating the app wireframe (used for pitching the idea)
-<br>• Building the app MVP
-<br>• Setting-up the database and backend infrastructure
-<br>• Implementing the continuous delivery pipeline with a suite of automated tests
-<br>• UX and graphic design (logo, visual identity)
+<br><span class="highlight">MAMMA FIT CLUB</span>
+<br><span class="command">2019-now</span>
+<br><span class="command">Co-founding a startup aimed at helping pregnant women exercise throughout their pregnancy.</span>
+<br><span class="command">• Creating the app wireframe (used for pitching the idea)</span>
+<br><span class="command">• Building the app MVP</span>
+<br><span class="command">• Setting-up the database and backend infrastructure</span>
+<br><span class="command">• Implementing the continuous delivery pipeline and automated tests</span>
+<br><span class="command">• UX and graphic design (logo, visual identity)</span>
 <br><br>
 
 <br>Developer Advocate 
-<br>AMADEUS IT GROUP, Madrid, Spain
-<br><i>2017-2018</i>
-<br>• Working with product managers to build and continuously improve APIs based on feedback
-from developers and partners such as Troop Travel
-<br>• Writing documentation, guides, sample code and SDKs to help make for a great developer
-experience
-<br>• Participating in hackathons and conferences to meet developers and collect feedback
-through face-to-face discussion and solving travel-related problems
-<br>• Represented Amadeus at a hackathon during the Tecknofest air show inaugurating the new
-Istanbul airport, alongside other sponsors such as Turkish Airlines, Sabre and Here Maps<br><br>
+<br><span class="highlight">AMADEUS IT GROUP, Madrid, Spain</span>
+<br><span class="command">2017-2018</span>
+<br><span class="command">• Working with product managers to build and continuously improve APIs based on feedback
+from developers and partners such as Troop Travel</span>
+<br><span class="command">• Writing documentation, guides, sample code and SDKs to help make for a great developer
+experience</span>
+<br><span class="command">• Participating in hackathons and conferences to meet developers and collect feedback
+through face-to-face discussion and solving travel-related problems</span>
+<br><span class="command">• Represented Amadeus at a hackathon during the Tecknofest air show inaugurating the new
+Istanbul airport, alongside other sponsors such as Turkish Airlines, Sabre and Here Maps</span>
+<br><br>
 
 <br>Developer Advocate 
-<br>SKYSCANNER, Edinburgh, UK
-<br><i>2016-2017</i>
-<br>• Working closely with sales and engineering teams to continuously improve products based on
-feedback from developers
-<br>• Working closely with Business Development to provide 1-to-1 support to key partners such as
-Fare Compare, Visit Dubai and Vente Prive.
-<br>• Writing documentation, getting started guides and sample code to maximise developer
-experience
-<br>• Presented Skyscanner APIs and Alexa Skill at AWS Summit (London), Intelligent Assistants
-(London), Nordic APIs (Stockholm) and REST Fest (Edinburgh)<br><br>
+<br><span class="highlight">SKYSCANNER, Edinburgh, UK</span>
+<br><span class="command">2016-2017</span>
+<br><span class="command">• Working closely with sales and engineering teams to continuously improve products based on
+feedback from developers</span>
+<br><span class="command">• Working closely with Business Development to provide 1-to-1 support to key partners such as
+Fare Compare, Visit Dubai and Vente Prive.</span>
+<br><span class="command">• Writing documentation, getting started guides and sample code to maximise developer
+experience</span>
+<br><span class="command">• Presented Skyscanner APIs and Alexa Skill at AWS Summit (London), Intelligent Assistants
+(London), Nordic APIs (Stockholm) and REST Fest (Edinburgh)</span>
+<br><br>
 
 <br>Senior Software Test Engineer 
-<br>SKYSCANNER, Edinburgh, UK
-<br><i>2013-2016</i>
-<br>• Creating test frameworks and tooling to support product development in a continuous
-deployment environment
-<br>• Writing user stories and acceptance criteria for use as automated acceptance tests
-<br>• Implementing automated tests to run during the deployment cycle<br><br>
+<br><span class="highlight">SKYSCANNER, Edinburgh, UK</span>
+<br><span class="command">2013-2016</span>
+<br><span class="command">• Creating test frameworks and tooling to support product development in a continuous
+deployment environment</span>
+<br><span class="command">• Writing user stories and acceptance criteria for use as automated acceptance tests</span>
+<br><span class="command">• Implementing automated tests to run during the deployment cycle</span>
+<br><br>
 
 <br>Software Engineer 
-<br>HEYMAN ENGINEERING (SELF-EMPLOYED), Edinburgh, UK
-<br><i>2010-2013</i>
-<br>• Developing full-stack applications including a hotel membership service (B+B) and a medical
-survey app (cMedicas)
-<br>• Writing HTML email campaigns, with the largest reaching 50,000 people (Roomwise)
-<br>• Providing technical support for websites, databases and apps<br><br>
+<br><span class="highlight">HEYMAN ENGINEERING (SELF-EMPLOYED), Edinburgh, UK</span>
+<br><span class="command">2010-2013</span>
+<br><span class="command">• Developing full-stack applications including a hotel membership service (B+B) and a medical
+survey app (cMedicas)</span>
+<br><span class="command">• Writing HTML email campaigns, with the largest reaching 50,000 people (Roomwise)</span>
+<br><span class="command">• Providing technical support for websites, databases and apps</span>
+<br><br>
 
 <br>System design engineer, A380 Network and Server System (NSS)
 <br>Systems integration engineer, Electronic Instrument and Flight Warning Systems (EIS and FWS)
-<br>SAFRAN ENGINEERING SERVICES (FOR AIRBUS-FRANCE), Toulouse, France
-<br><i>2006-2010</i>
-<br>• Writing requirements specifications and technical notes for the different components
-<br>• Preparing the documentation for certification dossiers
-<br>• Performing system integration tests on test benches and full-cockpit simulators
+<br><span class="highlight">SAFRAN ENGINEERING SERVICES (FOR AIRBUS-FRANCE), Toulouse, France</span>
+<br><span class="command">2006-2010</span>
+<br><span class="command">• Writing requirements specifications and technical notes for the different components</span>
+<br><span class="command">• Preparing the documentation for certification dossiers</span>
+<br><span class="command">• Performing system integration tests on test benches and full-cockpit simulators</span>
 
 
 <p class="">Education</p>
 <hr class="separator">
+
 <br>MEng Avionics Systems (2:1) 
-<br>UNIVERSITY of BRISTOL, UK
-<br><i>2001-2006</i>
-<br>Final year option: ‘Innovation and Entrepreneurship’. Chair Person of a group of 5 people. Developed a business plan and presented it to potential investors.
+<br><span class="highlight">UNIVERSITY of BRISTOL, UK</span>
+<br><span class="command">2001-2006</span>
+<br><span class="command">Multi-disciplinary degree combining Computer Science, Aeronautical Engineering and Electrical Engineering.</span>
+<br><span class="command">Final year option: ‘Innovation and Entrepreneurship’.</span>
 <br><br>
+
 Erasmus year
-<br>LINKÖPINGS UNIVERSITET, Sweden 
-<br><i>2004-2005</i>
-<br>Worked in a team of 12 people from many different nationalities for the third-year group design project, developing, building and test flying an unmanned search and reconnaissance aircraft.
+<br><span class="highlight">LINKÖPINGS UNIVERSITET, Sweden</span>
+<br><span class="command">2004-2005</span>
+<br><span class="command">Worked in a team of 12 people from many different nationalities for the third-year group design project, developing, building and test flying an unmanned search and reconnaissance aircraft.</span>
 
 <p class="">Interests</p>
 <hr class="separator">
-<br><u>Piano</u>
-<br>Have been playing the piano since a young age and continue to have weekly lessons, mostly classical music but would like to learn more Jazz.
-<br><br><u>Lindy Hop</u>
-<br>I love swing dancing and swing music. I am a keen Lindy Hop dancer and have attended workshops around the word.
-<br><br><u>Sailing</u>
-<br>Recently obtained the International Certificate of Competence (ICC) in Mallorca which allows me to skipper yachts in many countries. I have sailed in many places around Europe, with a preference for Sweden.
-<br><br><u>Travelling</u>
-<br>Love to attend software conferences, meetups, hackathons and, in the past two years, have had the chance to attend events around the world including Sweden, Spain, UK, US, Germany and Turkey.
-<br><br><u>Finance</u>
-<br>I love to keep learning new skills and finance is a fascinating topic. I have completed courses online in Finance, Computational Finance and Financial Markets with the University of Michigan and Yale University.
+
+<br>Piano
+<br><span class="command">Have been playing the piano since a young age and continue to have weekly lessons, mostly classical music but would like to learn more Jazz.</span>
+<br><br>Lindy Hop
+<br><span class="command">I love swing dancing and swing music. I am a keen Lindy Hop dancer and have attended workshops around the world.</span>
+<br><br>Sailing
+<br><span class="command">Recently obtained the International Certificate of Competence (ICC) in Mallorca which allows me to skipper yachts in many countries. I have sailed in many places around Europe, with a preference for Sweden.</span>
+<br><br>Travelling
+<br><span class="command">Love to attend software conferences, meetups, hackathons and, in the past two years, have had the chance to attend events around the world including Sweden, Spain, UK, US, Germany and Turkey.</span>
+<br><br>Finance
+<br><span class="command">I love to keep learning new skills and finance is a fascinating topic. I have completed courses online in Finance, Computational Finance and Financial Markets with the University of Michigan and Yale University.</span>
 
 <p></p>
 footer
