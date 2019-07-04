@@ -1,6 +1,6 @@
 <span class="input"> </span><span class="command">cat about_me.txt</span>
 <p class="pageContent"><span class="text">Hi, I'm Sam Heyman.</span></p>
-<p>I'm a software engineer currently based in Madrid, Spain. I love working in multi-disciplinary teams, on projects and products that I believe are worth while.
+<p>I'm a software engineer currently based in Madrid, Spain. I love working in multi-disciplinary teams, on projects and products that I believe make a difference.
 <p>Over the years I have gained a breadth of experience in building     full-stack web applications, integrating 3rd party APIs, software test automation and developer experience, having worked as:
 <br>- developer advocate for <a href="http://amadeus.com" target="_blank">Amadeus IT Group</a> (Madrid, Spain) and <a href="http://skyscanner.net" target="_blank">Skyscanner</a> (Edinburgh, UK)
 <br>- software test engineer for <a href="http://skyscanner.net" target="_blank">Skyscanner</a> (Edinburgh, UK)
