@@ -1,56 +1,80 @@
 <!DOCTYPE html>
 <html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="./favicon.png" />
+		<meta name="viewport" content="width=device-width" />
+		<style>
+			body {
+				background: linear-gradient(0deg, #080808 0%, #1f1f1f 100%);
+				height: 100vh;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
 
-<head>
+			.container {
+				position: relative;
+			}
+			.container::after {
+				content: '';
+				position: absolute;
+				width: 100%;
+				height: 100%;
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
+				border-radius: 25px;
+				background: #000;
+				filter: blur(35px);
+				transition: 1.2s;
+				z-index: -1;
+				perspective: 0px;
+			}
+			.container:hover .flip-box-inner {
+				transform: rotateY(180deg);
+			}
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
-    <meta name="Sam Heyman" content="">
+			.container:hover:after {
+				transform: translate(-50%, -50%) rotateY(-180deg);
+			}
+		</style>
+		<meta http-equiv="content-security-policy" content="">
+	<link href="/_app/immutable/assets/index-8cccb8e7.css" rel="stylesheet">
+	<link rel="modulepreload" href="/_app/immutable/start-ee72e7e2.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/index-03969575.js">
+	<link rel="modulepreload" href="/_app/immutable/layout.svelte-48314042.js">
+	<link rel="modulepreload" href="/_app/immutable/pages/index.svelte-05676c83.js">
+	</head>
+	<body>
+		<div class="container">
 
-    <title>Sam Heyman</title>
-    <link rel="shortcut icon" type="image/png" href="./favicon.png" >
-    <link rel="apple-touch-icon" href="icon.png">
-    <!-- Place favicon.ico in the root directory -->
-  
-    <!-- GA -->
-    <script src="js/ga.js"></script>
 
-    <!-- Map Box -->
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.js'></script>
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.css' rel='stylesheet' />
+<div class="flip-box svelte-n0hsjs"><div class="flip-box-inner svelte-n0hsjs"><div class="flip-box-front svelte-n0hsjs"></div>
+		<div class="flip-box-back svelte-n0hsjs"></div></div>
+</div>
 
-    <!-- Custom CSS -->
-    <!-- <link href="css/classic-theme.css" rel="stylesheet"> -->
-    <link href="css/solarized-dark-theme.css" rel="stylesheet">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    
-    <script src="js/console.js"></script>
-    <script type="text/javascript">
-        Typer.pageFile="about_me.txt";
-        Typer.init();
-    </script>
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  
-</head>
+		<script type="module" data-sveltekit-hydrate="174met2">
+		import { set_public_env, start } from "/_app/immutable/start-ee72e7e2.js";
 
-<body onkeydown="uniKeyCode(event)">
-    <div id="console">
-        
-    </div>
+		set_public_env({});
 
-<!-- <script>
-    function uniKeyCode(event) {
-        var key = event.keyCode;
-        start(key);
-    }
-</script> -->
-</body>
-
+		start({
+			target: document.querySelector('[data-sveltekit-hydrate="174met2"]').parentNode,
+			paths: {"base":"","assets":""},
+			session: {},
+			route: true,
+			spa: false,
+			trailing_slash: "never",
+			hydrate: {
+				status: 200,
+				error: null,
+				nodes: [0, 2],
+				params: {},
+				routeId: ""
+			}
+		});
+	</script></div>
+	</body>
 </html>
